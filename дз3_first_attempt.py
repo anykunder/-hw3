@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[30]:
-
-
 class CountVectorizer():
     def __init__(self, *args):
         self.args = args
